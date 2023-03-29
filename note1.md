@@ -12,4 +12,3 @@ class Person:
     def __str__(self):
     return f"Person Object called: (self.name)"
 ```
-ddd
