@@ -4,12 +4,11 @@ Object Oriented is awesome :D
 
 ```python
 
-```
-
-#Example of a Class Definition in Python
+# Example of a Class Definition in Python
 class Person:
     def __init__(self, name):
         self.name = name
         
     def __str__(self):
     return f"Person Object called: (self.name)"
+```
